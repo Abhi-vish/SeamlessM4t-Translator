@@ -14,7 +14,7 @@ Seamless M4T Translator is a powerful tool that enables various types of languag
 - **Text-to-Text Translation:** Translate written text from one language to another.
 
 ## Demo
-!(https://github.com/Abhi-vish/SeamlessM4t-Translator/assets/109618783/07bdb07c-825f-48a3-afb3-5551526285bb)
+![Untitled video - Made with Clipchamp (3)](https://github.com/Abhi-vish/SeamlessM4t-Translator/assets/109618783/07bdb07c-825f-48a3-afb3-5551526285bb)
 
 
 ## Getting Started
