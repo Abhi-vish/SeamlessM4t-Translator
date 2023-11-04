@@ -11,5 +11,6 @@ result = client.predict(
 		None,
 		"Hindi",	
 		api_name="/run"
+        
 )
 print(result)
